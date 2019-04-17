@@ -8,4 +8,4 @@ Pueden hacer lo que quieran...
 
 
 ## Github
-CAmbios realizados en git
+Cambios realizados en git
